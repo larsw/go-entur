@@ -1,4 +1,6 @@
-# entur
+# go-entur
+
+![Go](https://github.com/larsw/go-entur/workflows/Go/badge.svg)
 
 A Go client library for the entur.org API's
 
@@ -10,7 +12,6 @@ Running it then should be as simple as:
 
 ```console
 $ make
-$ ./bin/entur
 ```
 
 ### Testing
