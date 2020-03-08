@@ -2,7 +2,7 @@ package main
 
 import (
 	
-	"github.com/larsw/entur/cmd"
+	"github.com/larsw/go-entur/cmd"
 )
 
 func main() {

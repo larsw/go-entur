@@ -4,11 +4,11 @@ import (
 	"os"
 
 	"github.com/sirupsen/logrus"
-	"github.com/larsw/entur/config"
+	"github.com/larsw/go-entur/config"
 )
 
 // Logger defines a set of methods for writing application logs. Derived from and
-// inspired by logrus.Entry.
+// inspired by logrus.Entry
 type Logger interface {
 	Debug(args ...interface{})
 	Debugf(format string, args ...interface{})
