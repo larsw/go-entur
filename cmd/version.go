@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/larsw/entur/version"
+	"github.com/larsw/go-entur/version"
 	"github.com/spf13/cobra"
 )
 
