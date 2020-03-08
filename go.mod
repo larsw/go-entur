@@ -1,4 +1,4 @@
-module github.com/larsw/entur
+module github.com/larsw/go-entur
 
 go 1.14
 
